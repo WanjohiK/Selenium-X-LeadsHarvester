@@ -119,8 +119,6 @@ search_query = "machine learning engineer"
 
 **Kelvin Nyawira**  
 AI Engineer | Data Scientist  
-📧 [Your Email Here]  
-🌐 [Your LinkedIn or GitHub Link]
 
 ---
 
