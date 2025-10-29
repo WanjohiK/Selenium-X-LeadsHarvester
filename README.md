@@ -30,8 +30,8 @@ This project automates the scraping of tweets from **X (formerly Twitter)** usin
 1. **Clone this repository:**
 
    ```bash
-   git clone https://github.com/WanjohiK/Selenium-X-LeadsHarvester
-   cd x-scraper
+   git clone https://github.com/WanjohiK/Selenium-X-LeadsHarvester.git
+   cd Selenium-X-LeadsHarvester
    ```
 
 2. **Install dependencies:**
